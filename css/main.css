@@ -1,0 +1,38 @@
+.profile-photo{
+  display: block; 
+  max-width: 150px; 
+  margin: 10px 5px 15px; 
+  border-radius: 50%;   /* Allows you to set borders, Makes the picture as a circle                          */
+} 
+.year{
+	margin: 10px 25px 15px; 
+}
+.heading{
+	margin: 10px 25px 15px; 	
+}
+.background: {
+	margin: 10px 25px 15px; 	
+	color: green;
+}
+/*.nav-li{
+	margin: 0px 5px 0px;
+	display: inline;
+}*/
+
+nav{
+  text-align: left; 
+  padding: 10px 15px; 
+  margin: 0px 0px 15px; 
+} 
+
+nav ul { 
+  list-style: none; 
+  margin: 0 0px ; 
+  padding: 0; 
+  
+} 
+
+nav li {
+  margin-left: 10px;
+  display: inline-block; 
+} 
